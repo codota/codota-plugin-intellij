@@ -26,7 +26,7 @@ Contact [support@codota.com](support@codota.com) for any question, issue, or fee
 
 ### About
 * Jetbrains store entry: [The Codota Plugin](https://plugins.jetbrains.com/plugin/7638-codota)
-* FAQ: on the [Codota](https://www.codota.com/faq) site
-* Your code stays private. Codota doesn't send your code to the Codota server, we only send minimal contextual information from the currently edited file that allows us to make predictions based on your current local scope. [Learn more](https://www.codota.com/code-privacy).
+* FAQ: on the [Codota](https://www.codota.com/faq) website
+* Your code stays private. Codota doesn't send your code to the Codota server, we only send minimal contextual information from the currently edited file. This allows Codota to provide predictions based on your current local scope. [Learn more](https://www.codota.com/code-privacy).
 * [Terms & Conditions](https://www.codota.com/terms)
 
